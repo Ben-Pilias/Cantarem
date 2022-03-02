@@ -1,0 +1,36 @@
+<rooLivre
+    imgRandom="35">
+<livre
+    id="1"
+    dataName="Crois seulement"
+    dataName="cs"
+    maxNumber="226"
+    langue="Français"
+    urlDataXml="https://jecreevotresiteweb.com/cantiques_data/v1/crois_seulement/dataxml/Crois_seulement.xml"
+    urlImgBook="https://jecreevotresiteweb.com/cantiques_data/v1/imgbook/"
+    urlImgAc="https://jecreevotresiteweb.com/cantiques_data/v1/crois_seulement/img_ac/cs_ac.jpg"
+    urlAudio="https://jecreevotresiteweb.com/cantiques_data/v1/crois_seulement/audio/">
+</livre>
+<livre
+    id="2"
+    dataName="Hosanna"
+    dataAbrec="hos"
+    maxNumber="246"
+    langue="Français"
+    urlDataXml="https://jecreevotresiteweb.com/cantiques_data/v1/hosanna/dataxml/Hosanna.xml"
+    urlImgBook="https://jecreevotresiteweb.com/cantiques_data/v1/imgbook/"
+    urlImgAc="https://jecreevotresiteweb.com/cantiques_data/v1/hosanna/img_ac/hos_ac.jpg"
+    urlAudio="https://jecreevotresiteweb.com/cantiques_data/v1/hosanna/audio/">
+</livre>
+<livre
+    id="3"
+    dataName="Only believe"
+    dataAbrec="ob"
+    maxNumber="227"
+    langue="English"
+    urlDataXml="https://jecreevotresiteweb.com/cantiques_data/v1/only_believe/dataxml/Only_believe.xml"
+    urlImgBook="https://jecreevotresiteweb.com/cantiques_data/v1/imgbook/"
+    urlImgAc="https://jecreevotresiteweb.com/cantiques_data/v1/only_believe/img_ac/ob_ac.jpg"
+    urlAudio="https://jecreevotresiteweb.com/cantiques_data/v1/only_believe/audio/">
+</livre>
+</rooLivre>
