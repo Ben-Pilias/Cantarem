@@ -47,7 +47,7 @@
     "urlImgAc":"",
     "urlAudio":"https:\/\/raw.githubusercontent.com\/Ben-Pilias\/Cantarem\/main\/Collection_de_cantiques\/Audios\/"},
 
-  { "recSon":"2,4,5,10,12,13,14,15",
+  { "recSon":"",
     "randomImgMax":"35",
     "dataName":"Crois seulement",
     "categorie":"Recueil de cantiques",
@@ -178,7 +178,7 @@
   {
     "recSon":"",
     "randomImgMax":"35",
-    "dataName":"Благословлю Господь Тебя",
+    "dataName":"Благословлю господь тебя",
     "categorie":"Recueil de cantiques",
     "autresInfos":"*",
     "maxNumberBook":"453",
@@ -187,7 +187,7 @@
     "proposeur":"Les Chants Inspirés",
     "email":"jjmm9967@gmail.com",
     "abrData":"бгт",
-    "urlDataXml":"https:\/\/raw.githubusercontent.com\/Ben-Pilias\/Cantarem\/main\/Благословлю_Господь_Тебя.xml",
+    "urlDataXml":"https:\/\/raw.githubusercontent.com\/Ben-Pilias\/Cantarem\/main\/Благословлю_господь_тебя.xml",
     "urlImgBook":"https:\/\/raw.githubusercontent.com\/Ben-Pilias\/Cantarem\/main\/imgbook\/",
     "urlImgAc":"",
-    "urlAudio":"https:\/\/raw.githubusercontent.com\/Ben-Pilias\/Cantarem\/main\/Благословлю_Господь_Тебя\/Audios\/"}]
+    "urlAudio":"https:\/\/raw.githubusercontent.com\/Ben-Pilias\/Cantarem\/main\/Благословлю_господь_тебя\/Audios\/"}]
