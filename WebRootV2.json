@@ -1,16 +1,16 @@
 [{"urlSite":"http://www.pole-chretien.fr/lyrics.php",
   "nom":"Pôle Chrétien",
   "autresInfos":"Site chrétien adventiste en guadeloupe"},
-  {"urlSite":"https://www.superprof.fr/blog/musiques-religion-chant/",
-    "nom":"superprof ",
-    "autresInfos":"Blog de musiques religieuse"},
   {"urlSite":"https://topmusic.topchretien.com/chant/",
     "nom":"Top Chrétien",
     "autresInfos":""},
   {"urlSite":"http://cantique.vieetlumiere.net/paroles/",
-    "nom":"cantique.vieetlumiere",
+    "nom":"Cantique vie etlumiere",
     "autresInfos":""},
   {"urlSite":"https://www.youtube.com/channel/UCK7dHv8UTOtxO9ApVbZ7MlA?sub_confirmation=1",
-    "nom" :"Les Chants inspirés",
-    "autresInfos":"Chanine Youtube (recommandé)"}
+    "nom" :"Les Chants Inspirés",
+    "autresInfos":"Chainne Youtube (recommandé)"},
+  {"urlSite":"https://www.superprof.fr/blog/musiques-religion-chant/",
+    "nom":"superprof ",
+    "autresInfos":"Blog de musiques religieuse"}
 ]
