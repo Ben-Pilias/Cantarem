@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <livre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	nom ="Collection de cantiques"
-	abr="cc">
+	abr="cc" proposeur="CI" proprietaire="TCL" email="Leschantsinspires@gmail.com" site="">
 	<cantique titre="YESU YESU UDIKU" numero="1" auteur="" reference="" gamme="" 
 refrain=""
 >1. Yesu, Yesu udiku,
