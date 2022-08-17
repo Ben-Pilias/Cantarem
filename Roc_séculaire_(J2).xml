@@ -1,5 +1,5 @@
-<livre nom="Roc séculaire(J2)"
- abr="rsj2" langue="Français">
+<livre nom="Roc séculaire (J2)"
+ abr="rsj2" langue="Français" proposeur = " CI "  proprietaire = ""  email = " Leschantsinspires@gmail.com "  site = " " >
 <cantique titre="JE VEUX SUIVRE LE CHEMIN" numero="002" auteur="" gamme="" refrain=""
 >Je veux suivre, toujours suivre (3x)
 Le chemin que Jésus a tracé pour moi.
@@ -12,11 +12,8 @@ A tracé pour moi.] (2x)
 >Jésus est merveilleux, (3x)
 Il est mon Dieu.
 Il est le Tout Puissant,
-Créateur Omniscient,
-!"#
-%"&amp;
-'()
-&amp;'*+',--'./0
+Créateur Omniscient
+ 
 Il est mon Dieu, Il est mon Berger,
 Du temps le Rocher,
 Le Dieu d'éternité.
