@@ -361,14 +361,14 @@
         "address":"Kolwezi, RDC (Croyant du message du temps de la fin / Shammah Tabernacle)",
         "phone_number":"+2439745990034",
         "url_picture":""
-    },{"id":21,
+    },/*{"id":21,
         "apport_int":4,
         "name":"Fr Jean-Claude Mutombo",
         "apport":"10 000 FC (3.6 $)",
         "address":"De Likasi, RDC (Croyant du message du temps de la fin / Bethléem Tabernacle)",
         "phone_number":"+243974002020",
         "url_picture":""
-    },{"id":20,
+    },*/{"id":20,
         "apport_int":5,
         "name":"Fr Billy Majaliwa",
         "apport":"12 000 FC (4.4 $)",
@@ -435,13 +435,6 @@
         "apport":"8 000 FC (2.9 $)",
         "address":"De Kolwezi, RDC (Croyant du message du temps de la fin /Tabernacle de Kolwezi)",
         "phone_number":"+243814530402",
-        "url_picture":""
-    },{ "id":11,
-        "apport_int":4,
-        "name":"Fr Ézéchiel Itengero",
-        "apport":"10 000 FC (3.6 $)",
-        "address":"De Beni, RDC (Croyant du message du temps de la fin / Lys Tabernacle)",
-        "phone_number":"+243976237050",
         "url_picture":""
     },{ "id":10,
         "apport_int":5,
