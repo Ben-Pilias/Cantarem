@@ -1,6 +1,6 @@
 [{
 "status":true,
-"total_apports_info":"Total de la contribution : \n416.39 $ / 500-1000 $",
+"total_apports_info":"Total de la contribution : \n436.27 $ / 500-1000 $",
 "number_1":" 0971530011",
 "number_2":"0817168513",
 "info_gen_info_fr":"Nous souhaitons améliorer l'application et intégrer toutes les fonctionnalités de la version Pro actuelle. Sachant que la version Pro prendra un look différent par la suite, et qu'elle sera disponible. Mais en attendant, nous vous promettons des merveilles.\n\nCependant, pour y arriver dans les plus brefs délais, nous avons besoin de votre coup de main, car le projet n'a pas d'autre sponsor que vous. TOUTE CONTRIBUTION FINANCIÈRE EST LA BIENVENUE SANS DISCRIMINATION SUR LA TAILLE DE LA VALEUR. Le montant total attendu pour démarrer le projet est en moyenne de 500 à 1 000 USD; Chaque contribution fera une différence et ensemble nous y parviendrons. Parce que l'application compte désormais plus de 40 000 utilisateurs actifs et environ 100 000 téléchargements.\n\nVoici ce que nous attendons de cette fameuse mise à jour de l'application:\nL'application sera:\n*capable d'ajouter ou de supprimer d'autres recueils de chansons,\n* Capable de télécharger des collections,\n* Traduit en anglais et dans d'autres langues,\n* Capable de changer l'image de couverture,\n* Capable d'enregistrer l'affectation sonore de chaque chanson dans l'application,\n* Adoptéé d'une meilleure interface que l'actuelle,\n* Plus  meilleure à utilisé que la version actuelle.\n\nSI VOUS DISPOSEZ DE MOYENS LIBÉRABLES, NOUS VOUS EXHORTONS DE CONTACTER LES ADRESSES CI-DESSUS POUR L' ASSISTANCE.\nPOUR CERTAINS UTILISATEURS, CECI EST UNE NÉCESSITÉ POUR ACTIVER LES FONCTIONNALITÉS DE L’APPLICATION. Pour ceux qui se situent en RDC, le transfert local peut être effectué via des services des opérateurs réseaux tels que AirtelMoney, M-pesa et autres ; ceux qui sont ailleurs utiliseront MoneyGram, Western Union ou les services bancaires.\n\nNous serons ravis de vous inscrire dans notre base de données en tant que contributeur à l'amélioration de l'application Cantiques et de ses services associés. Et déjà, nous remercions les frères et sœurs qui ont participés.",
@@ -25,7 +25,7 @@
         {"id":80,
         "apport_int":4,
         "name":"Fr Trésor Ilunga",
-        "apport":"10 000 FC (3.6 $)",
+        "apport":"10 000 FC (3.57 $)",
         "address":"De Kinshasa, RDC (Peniel Tabernacle, Croyant du message du temps de la fin,)",
         "phone_number":"+243974039638",
         "url_picture":""
@@ -33,7 +33,7 @@
 {"id":79,
         "apport_int":4,
         "name":"Fr Phinée Muamba",
-        "apport":"10 000 FC (3.6 $)",
+        "apport":"10 000 FC (3.57 $)",
         "address":"De Mbujimayi, RDC (Croyant du message du temps de la fin)",
         "phone_number":"+260973143644",
         "url_picture":""
@@ -41,7 +41,7 @@
     {"id":78,
         "apport_int":4,
         "name":"Fr Jeannot Mukendi",
-        "apport":"10 000 FC (3.6 $)",
+        "apport":"10 000 FC (3.57 $)",
         "address":"De Kolwezi, RDC (Shammah Tabernacle, Croyant du message du temps de la fin)",
         "phone_number":"+243808705282",
         "url_picture":""
@@ -50,7 +50,7 @@
         "id":77,
         "apport_int":4,
         "name":"Contributeur anonyme",
-         "apport":"10 000 FC (3.6 $)",
+         "apport":"10 000 FC (3.57 $)",
         "address":"De Kolwezi, RDC (Shalom Tabernacle, Croyant du message du temps de la fin)",
         "phone_number":"+243992999965",
         "url_picture":""
@@ -453,14 +453,7 @@
         "phone_number":"+243998194446",
         "url_picture":""
     },
-    {"id":24,
-        "apport_int":10,
-        "name":"Fr Glady Mwamba",
-        "apport":"10 $",
-        "address":"De Lubmbashi, RDC (Croyant du message du temps de la fin, Kenos Tabernacle)",
-        "phone_number":"+243893864902",
-        "url_picture":""
-    },{"id":23,
+{"id":23,
         "apport_int":3,
         "name":"Fr Daniel Kayembe",
         "apport":"6 000 FC (2.2 $)",
@@ -596,7 +589,7 @@
         "address":"De Lubmbashi, RDC (Croyant du message du temps de la fin / Hosana Tabernacle, chez Past. Daniel Badibanga)",
         "phone_number":"+243852375674",
         "url_picture":""
-    },{
+    },/*{
         "id":1,
         "apport_int":10,
         "name":"Contributeur anonyme",
@@ -604,7 +597,7 @@
         "address":"",
         "phone_number":"",
         "url_picture":""
-    },
+    }*/
   {
     "id":2,
     "apport_int":10,
